@@ -14,6 +14,8 @@
 
 [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 
+https://medium.com/@mathieuravaut/cracking-the-machine-learning-interview-baf377b46eca
+
 ## Resources
 
 https://github.com/Sroy20/machine-learning-interview-questions
