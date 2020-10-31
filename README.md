@@ -31,3 +31,20 @@ https://github.com/kojino/120-Data-Science-Interview-Questions
 https://www.itshared.org/2015/10/data-science-interview-questions.html
 
 [Maths for ML](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
+
+## Resume Prep
+
+### FRCNN
+
+Prepare object detection and specially FRCNN very well
+
+Focus on RPN mainly anchors and ROI
+
+[FRCNN and Object Detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
+
+https://www.geeksforgeeks.org/faster-r-cnn-ml/
+
+[Pytorch Implementation step by step](https://www.youtube.com/watch?v=4yOcsWg-7g8&ab_channel=Tien-LungSun)
+
+https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
+
