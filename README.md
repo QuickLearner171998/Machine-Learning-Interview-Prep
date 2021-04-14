@@ -48,3 +48,6 @@ https://www.geeksforgeeks.org/faster-r-cnn-ml/
 
 https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
 
+# Object Detection
+
+[Good Read](https://whatdhack.medium.com/)
