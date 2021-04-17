@@ -16,6 +16,22 @@
 
 https://medium.com/@mathieuravaut/cracking-the-machine-learning-interview-baf377b46eca
 
+## ML System Design
+[Really Good Compilation](https://github.com/alirezadir/machine-learning-interview-enlightener)
+
+https://www.educative.io/blog/cracking-machine-learning-interview-system-design
+
+[Machine learning system design. A primer for machine learning system… | by Vimarsh Karbhari | Acing AI | Medium](https://medium.com/acing-ai/machine-learning-system-design-c3a35c7df07d)
+
+[How I cracked my MLE interview at Facebook | by Rahul Agarwal | Towards Data Science](https://towardsdatascience.com/how-i-cracked-my-mle-interview-at-facebook-fe55726f0096)
+
+[The complete guide to crack the System Design interview | by Harshith | Towards Data Science](https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc)
+
+[chiphuyen/machine-learning-systems-design: A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
+
+[Part 1: Machine Learning System Design — ML in production. | by Sree Gowri Addepalli | Medium](https://sga297.medium.com/part-1-machine-learning-system-design-ml-in-production-9dac09041ca1)
+
+
 ## Resources
 
 https://github.com/Sroy20/machine-learning-interview-questions
@@ -31,6 +47,7 @@ https://github.com/kojino/120-Data-Science-Interview-Questions
 https://www.itshared.org/2015/10/data-science-interview-questions.html
 
 [Maths for ML](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
+
 
 ## Resume Prep
 
