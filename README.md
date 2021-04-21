@@ -23,6 +23,8 @@ https://www.educative.io/blog/cracking-machine-learning-interview-system-design
 
 ### Examples
 
+[DropBox OCR Pipeline](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
+
 [Machine Learning System Design (YouTube Recommendation System)](https://www.youtube.com/watch?v=0nu83yWqnNQ)
 
 [ML System (Re) Design: Our ML journey | Wadhwani AI](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/)
