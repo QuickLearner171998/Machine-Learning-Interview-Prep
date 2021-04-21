@@ -2,6 +2,9 @@
 
 
 ## ML System Design
+
+Best way to practice is just read/watch case studies and examples on Blogs and YT.
+
 [Really Good Compilation](https://github.com/alirezadir/machine-learning-interview-enlightener)
 
 https://www.educative.io/blog/cracking-machine-learning-interview-system-design
@@ -14,25 +17,32 @@ https://www.educative.io/blog/cracking-machine-learning-interview-system-design
 
 [Part 1: Machine Learning System Design — ML in production. | by Sree Gowri Addepalli | Medium](https://sga297.medium.com/part-1-machine-learning-system-design-ml-in-production-9dac09041ca1)
 
-[ML System (Re) Design: Our ML journey | Wadhwani AI](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/)
-
 [AstronomerAmber/ML_prep: Machine Learning interview prep guide](https://github.com/AstronomerAmber/ML_prep)
 
-[khangich/machine-learning-interview: Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc.](https://github.com/khangich/machine-learning-interview)
+[khangich/machine-learning-interview: Machine Learning Interviews from FAAG, Snapchat, LinkedIn](https://github.com/khangich/machine-learning-interview)
+
+### Examples
+
+[Machine Learning System Design (YouTube Recommendation System)](https://www.youtube.com/watch?v=0nu83yWqnNQ)
+
+[ML System (Re) Design: Our ML journey | Wadhwani AI](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/)
+
+[Compass](https://medium.com/compass-true-north/machine-learning-in-action-for-compasss-likely-to-sell-recommendations-699a6dcd5076)
+
+[Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
 
 
-## ML Algorithms (with Implementations)
+## ML Algorithms
 
-https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+[ML from Scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
 https://github.com/AstronomerAmber/ML_prep/tree/master/Practical_Coding_Challenges
 
 https://workera.ai/resources/machine-learning-algorithms-interview/
 
-https://github.com/alirezadir/machine-learning-interview-enlightener/tree/main/Notebooks
+https://medium.com/@grohith327
 
-
-## Resources
+## Interview Prep
 
 https://github.com/Sroy20/machine-learning-interview-questions
 
