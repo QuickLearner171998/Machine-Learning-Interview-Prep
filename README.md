@@ -1,39 +1,5 @@
 # Machine-Learning-Interview-Prep
 
-
-## ML System Design
-
-Best way to practice is just read/watch case studies and examples on Blogs and YT.
-
-[Really Good Compilation](https://github.com/alirezadir/machine-learning-interview-enlightener)
-
-https://www.educative.io/blog/cracking-machine-learning-interview-system-design
-
-[Machine learning system design. A primer for machine learning system… | by Vimarsh Karbhari | Acing AI | Medium](https://medium.com/acing-ai/machine-learning-system-design-c3a35c7df07d)
-
-[The complete guide to crack the System Design interview | by Harshith | Towards Data Science](https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc)
-
-[chiphuyen/machine-learning-systems-design: A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
-
-[Part 1: Machine Learning System Design — ML in production. | by Sree Gowri Addepalli | Medium](https://sga297.medium.com/part-1-machine-learning-system-design-ml-in-production-9dac09041ca1)
-
-[AstronomerAmber/ML_prep: Machine Learning interview prep guide](https://github.com/AstronomerAmber/ML_prep)
-
-[khangich/machine-learning-interview: Machine Learning Interviews from FAAG, Snapchat, LinkedIn](https://github.com/khangich/machine-learning-interview)
-
-### Examples
-
-[DropBox OCR Pipeline](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
-
-[Machine Learning System Design (YouTube Recommendation System)](https://www.youtube.com/watch?v=0nu83yWqnNQ)
-
-[ML System (Re) Design: Our ML journey | Wadhwani AI](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/)
-
-[Compass](https://medium.com/compass-true-north/machine-learning-in-action-for-compasss-likely-to-sell-recommendations-699a6dcd5076)
-
-[Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
-
-
 ## ML Algorithms
 
 [ML from Scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
@@ -44,7 +10,39 @@ https://workera.ai/resources/machine-learning-algorithms-interview/
 
 https://medium.com/@grohith327
 
-## Interview Prep
+
+## ML System Design
+
+Best way to practice is reading/watching case studies and examples on Blogs and YT.
+
+[ML Systems Design Interview Guide · Patrick Halina](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+
+[Really Good Compilation](https://github.com/alirezadir/machine-learning-interview-enlightener)
+
+[chiphuyen/machine-learning-systems-design: A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
+
+### Good Read
+
+[DropBox OCR Pipeline](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
+
+[Machine Learning System Design (YouTube Recommendation System)](https://www.youtube.com/watch?v=0nu83yWqnNQ)
+
+[Compass](https://medium.com/compass-true-north/machine-learning-in-action-for-compasss-likely-to-sell-recommendations-699a6dcd5076)
+
+[Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+
+### Recommender Systems
+
+Very high chances that a design question is related to Recommender System.
+
+[In-Depth Guide: How Recommender Systems Work | Built In](https://builtin.com/data-science/recommender-systems)
+
+[How to Design and Build a Recommendation System Pipeline in Python (Jill Cates)](https://www.youtube.com/watch?v=v_mONWiFv0k)
+
+
+
+
+## Interview Questions
 
 https://github.com/Sroy20/machine-learning-interview-questions
 
@@ -58,26 +56,12 @@ https://github.com/kojino/120-Data-Science-Interview-Questions
 
 https://www.itshared.org/2015/10/data-science-interview-questions.html
 
+## Maths and Statistics
+
 [Maths for ML](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
 
 
-## Object Detection
-
-### FRCNN
-
-[Good Read](https://whatdhack.medium.com/)
-
-[FRCNN and Object Detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
-
-https://www.geeksforgeeks.org/faster-r-cnn-ml/
-
-[Pytorch Implementation step by step](https://www.youtube.com/watch?v=4yOcsWg-7g8&ab_channel=Tien-LungSun)
-
-https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
-
-
-
-## Interview Exp
+## Interview Experiences
 
 [How I cracked my MLE interview at Facebook | by Rahul Agarwal | Towards Data Science](https://towardsdatascience.com/how-i-cracked-my-mle-interview-at-facebook-fe55726f0096)
 
@@ -95,3 +79,17 @@ https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c27343
 
 https://medium.com/@mathieuravaut/cracking-the-machine-learning-interview-baf377b46eca
 
+
+## Object Detection
+
+### FRCNN
+
+[Good Read](https://whatdhack.medium.com/)
+
+[FRCNN and Object Detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
+
+https://www.geeksforgeeks.org/faster-r-cnn-ml/
+
+[Pytorch Implementation step by step](https://www.youtube.com/watch?v=4yOcsWg-7g8&ab_channel=Tien-LungSun)
+
+https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
