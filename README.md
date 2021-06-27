@@ -1,5 +1,10 @@
 # Machine-Learning-Interview-Prep
 
+
+## BOOKS
+
+https://huyenchip.com/ml-interviews-book/
+
 ## ML Algorithms
 
 [ML from Scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
